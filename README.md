@@ -3,4 +3,4 @@
 
 🚴 Quick thinking and quality decisions are my tools of the trade, keeping projects on track even in the fast-paced world of tech.
 
-👨‍🏫 Off-screen, I push boundaries on the road and in the classroom, fostering values like teamwork and resilience that seamlessly translate into my code.
+👨‍🏫 Off-screen, I push boundaries on the road, fostering values like teamwork and resilience that seamlessly translate into my code.

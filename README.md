@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://portfolio-jpinas.vercel.app/"><img src="https://img.shields.io/badge/Interactive_portfolio-07110f?style=flat-square&logo=vercel&logoColor=ffffff" alt="Interactive portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jpinas1998/"><img src="https://img.shields.io/badge/LinkedIn-07110f?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn profile" /></a>
+  <a href="https://www.linkedin.com/in/jpinas1998-software-engineer/"><img src="https://img.shields.io/badge/LinkedIn-07110f?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn profile" /></a>
   <a href="mailto:jpinas1998@gmail.com"><img src="https://img.shields.io/badge/Email-07110f?style=flat-square&logo=gmail&logoColor=ffffff" alt="Send email" /></a>
 </p>
 

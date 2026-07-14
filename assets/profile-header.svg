@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Joaquín A. Pina Socorro - Senior Backend Software Engineer</title>
+  <desc id="desc">Terminal-inspired profile header for a Python backend engineer based in A Coruña, Spain.</desc>
+
+  <rect width="1200" height="300" rx="12" fill="#07110f"/>
+  <rect x="1" y="1" width="1198" height="298" rx="11" fill="none" stroke="#24433b" stroke-width="2"/>
+  <path d="M0 54H1200" stroke="#24433b" stroke-width="2"/>
+
+  <circle cx="31" cy="27" r="6" fill="#d2772b"/>
+  <circle cx="52" cy="27" r="6" fill="#d8bd70"/>
+  <circle cx="73" cy="27" r="6" fill="#4f8d72"/>
+  <text x="98" y="34" fill="#8da59e" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18">joaquin@github: ~/profile</text>
+
+  <text x="54" y="101" fill="#d2772b" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="20">$ whoami</text>
+  <text x="54" y="157" fill="#f7f1e3" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="42" font-weight="700">Joaquín A. Pina Socorro</text>
+  <text x="54" y="204" fill="#78b996" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="27" font-weight="600">&lt;Senior Backend Software Engineer · Python&gt;</text>
+
+  <path d="M54 231H1146" stroke="#24433b" stroke-width="2"/>
+  <text x="54" y="268" fill="#aebdb8" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18">A Coruña, Spain  /  APIs  /  data platforms  /  cloud delivery</text>
+</svg>

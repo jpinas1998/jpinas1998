@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Joaquín Pina Socorro, Backend Software Engineer specializing in Python" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Joaquín Pina Socorro, Senior Backend Software Engineer specializing in Python" />
 </div>
 
 <p align="center">
-  Backend Software Engineer building reliable APIs, data-driven platforms, and cloud systems with Python and Django.
+  I build backend systems that survive production, changing requirements, and the occasional deployment that develops free will.
 </p>
 
 <p align="center">
@@ -12,29 +12,32 @@
   <a href="mailto:jpinas1998@gmail.com"><img src="https://img.shields.io/badge/Email-07110f?style=flat-square&logo=gmail&logoColor=ffffff" alt="Send email" /></a>
 </p>
 
-<p align="center"><sub>A Coruña, Spain · Spanish (native) · English (B2)</sub></p>
+<p align="center"><sub>A Coruña, Spain · Spanish (native) · English (B2) · Tabs, not spaces in my personal life</sub></p>
 
-## About
+## The short version
 
-I am a backend engineer with 5+ years of experience building and modernizing web products and data-driven platforms. I specialize in Python, Django REST Framework, REST APIs, microservices, PostgreSQL, ClickHouse, and production delivery on AWS.
+I am a backend engineer and development team lead with **5+ years of experience** building and modernizing web products, APIs, and data-heavy platforms. My main territory is Python, Django REST Framework, PostgreSQL, ClickHouse, AWS, and the dangerous sentence: “It should be a small change.”
 
-I currently lead a small development team, define architecture and technical standards, and take products from requirements to production. Most of my production work lives in private client repositories; my [interactive portfolio](https://portfolio-jpinas.vercel.app/) presents the systems, decisions, and outcomes behind that work.
+I define architecture and technical standards, lead a small development team, and take products from field requirements to production. Most of that work lives in private client repositories, where the code is real, the users are real, and `README.md` is sometimes an archaeological document.
 
-## What I work on
+My [interactive portfolio](https://portfolio-jpinas.vercel.app/) tells the useful part of that story: the systems, decisions, and measurable results behind the commits.
 
-- **Backend and API architecture** — REST APIs, microservices, role-based access control, and third-party system integrations.
+## What I do before the incident report
+
+- **Backend and API architecture** — REST APIs, microservices, role-based access control, and third-party integrations that occasionally have documentation.
 - **Data and ML systems** — PostgreSQL, ClickHouse, ETL workflows, analytics, and Amazon SageMaker integrations.
-- **Cloud delivery and leadership** — AWS, Docker, Nginx, GitHub Actions, CI/CD, technical standards, and team delivery.
+- **Cloud and delivery** — AWS, Docker, Nginx, GitHub Actions, CI/CD, monitoring, and the ancient art of making deployments boring.
+- **Technical leadership** — architecture, standards, code reviews, mentoring, and translating “it does not work” into something reproducible.
 
-## Selected impact
+## Evidence that it worked
 
 - Built a cost-estimation ML model with Amazon SageMaker that reached **92% accuracy**.
 - Improved data-loading performance by **73%** and reduced page load time by **20%**.
-- Led the migration of a monolithic application toward microservices.
+- Led the migration of a monolithic application toward microservices without rewriting the business into extinction.
 - Designed RBAC and real-time integrations for an operational solar-energy platform.
-- Delivered **10+ features** for carbon-emissions tracking and reporting.
+- Delivered **10+ features** for carbon-emissions tracking and reporting. The software tracked emissions; the deadlines reduced life expectancy.
 
-## Core stack
+## The toolbox
 
 | Area | Technologies |
 | --- | --- |
@@ -44,10 +47,16 @@ I currently lead a small development team, define architecture and technical sta
 | Delivery | Docker, Docker Compose, Nginx, GitHub Actions, CI/CD |
 | Frontend integration | Vue.js, React, JavaScript, HTML, CSS |
 
-## Beyond engineering
+I choose tools based on the problem, the team, and the operational cost—not because a framework had a very convincing launch thread.
 
-Outside engineering, CrossFit is part of my routine. That is why my [interactive portfolio](https://portfolio-jpinas.vercel.app/) turns my professional journey into a pixel-art game set inside a CrossFit box.
+## The person outside the terminal
+
+CrossFit is part of my routine, so naturally I turned my professional journey into a [pixel-art game set inside a CrossFit box](https://portfolio-jpinas.vercel.app/). Each station represents real work from my career. To advance, you complete movements at the gates.
+
+This is still less exhausting than explaining microservices to a committee.
 
 ## Contact
 
-For professional conversations, reach me through [LinkedIn](https://www.linkedin.com/in/jpinas1998/), explore the [interactive portfolio](https://portfolio-jpinas.vercel.app/), or email [jpinas1998@gmail.com](mailto:jpinas1998@gmail.com).
+If you are building something useful, untangling something expensive, or trying to prevent a legacy system from achieving consciousness, we should probably talk.
+
+[LinkedIn](https://www.linkedin.com/in/jpinas1998-software-engineer/) · [Interactive portfolio](https://portfolio-jpinas.vercel.app/) · [Email](mailto:jpinas1998@gmail.com)
